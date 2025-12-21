@@ -1,7 +1,7 @@
 {
-  "name": "arm-syntax",
-  "displayName": "arm-syntax",
-  "description": "Colorful assembly syntax",
+  "name": "nds-arm-assembly-syntax-highlight",
+  "displayName": "NDS ARM Assembly Syntax Highlight",
+  "description": "Syntax highlight for ARM assembly v5, used in devkitARM v46 for development in the Nintendo DS. ",
   "version": "0.0.6",
   "publisher": "aleixmt",
   "icon": "images/logo.png",
