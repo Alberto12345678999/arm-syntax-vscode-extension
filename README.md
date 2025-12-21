@@ -125,6 +125,9 @@ Changed default colors
 ### V0.0.5
 Fixed error detecting inmediate values.
 
+### V0.0.6
+'s' postfix included in syntax analisys
+
 
 
 [nodejs-shield]: https://img.shields.io/badge/nodeJS-20.x.x-orange?style=for-the-badge&logo=nodedotjs&logoColor=white
@@ -133,4 +136,3 @@ Fixed error detecting inmediate values.
 [vsce-url]: https://github.com/microsoft/vscode-vsce
 [vscode-shield]: https://img.shields.io/visual-studio-marketplace/i/ininavicode.arm-syntax?label=VSCode%20marketplace%20installations
 [vscode-url]: https://marketplace.visualstudio.com/items?itemName=ininavicode.arm-syntax
-
