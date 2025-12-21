@@ -107,4 +107,4 @@ jobs:
         # vsce uses the VSCE_PAT environment variable automatically if set
         run: npx @vscode/vsce publish
         env:
-          VSCE_PAT: ${{ secrets.VSCE_PAT }}
+          VSCE_PAT: ${{ secrets.VSCODE_MARKETPLACE_TOKEN }}
