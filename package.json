@@ -41,6 +41,16 @@
         "language": "arm",
         "scopeName": "source.arm",
         "path": "./syntaxes/arm.tmLanguage.json"
+      },
+      {
+        "scopeName": "markdown.arm.codeblock",
+        "path": "./syntaxes/markdown-arm-codeblock.tmLanguage.json",
+        "injectTo": [
+          "text.html.markdown"
+        ],
+          "embeddedLanguages": {
+          "meta.embedded.block.arm": "arm"
+        }
       }
     ],
     "configuration": {
